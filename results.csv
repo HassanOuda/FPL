@@ -1,0 +1,16 @@
+,ID,Position,Name,Linear Points,Tree Points,Random Forest Points,Multiplier,Sub,Linear_total,Tree_total,Random_total
+0,223,4,Trent Alexander-Arnold,0,0,0,1,False,0,0,0
+1,242,14,John Stones,6,6,6,1,True,0,0,0
+2,248,8,David Silva,11,11,11,1,False,11,11,11
+3,264,2,Phil Jones,1,9,9,1,False,1,9,9
+4,285,11,Romelu Lukaku,4,7,7,1,False,4,7,7
+5,286,12,Robert Elliot,2,2,6,1,True,0,0,0
+6,293,15,Jesús Gámez Duarte,0,1,1,1,True,0,0,0
+7,350,1,Lukasz Fabianski,1,2,1,1,False,1,2,1
+8,367,13,Tom Carroll,1,2,2,1,True,0,0,0
+9,388,7,Bamidele Alli,0,8,8,1,False,0,8,8
+10,394,10,Harry Kane,4,13,13,2,False,8,26,26
+11,414,6,Abdoulaye Doucouré,1,1,1,1,False,1,1,1
+12,424,3,Craig Dawson,1,2,0,1,False,1,2,0
+13,472,9,Álvaro Morata,4,17,3,1,False,4,17,3
+14,497,5,Eric Maxim Choupo-Moting,4,2,1,1,False,4,2,1
